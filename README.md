@@ -1,2 +1,5 @@
-# tist.github.io
-个人博客
+﻿# Cn0f1cd
+
+> Never givr up
+
+![Blog](/assets/img/blog.png)
