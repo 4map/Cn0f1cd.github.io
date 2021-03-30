@@ -4,7 +4,7 @@ layout:     post
 
 title:      Doki，一个无法检测到的Linux后门以Docker服务器为目标
 date:       2021.2.24
-author:     T1st
+author:     NONE
 
 ---
 专家发现了一种无法检测的Linux恶意软件，该恶意软件利用未记录的技术来逃避检测，并以可公开访问的Docker服务器为目标
