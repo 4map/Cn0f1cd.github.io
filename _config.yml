@@ -1,10 +1,10 @@
 # Site settings
-title: CD Blog
-SEOTitle: CD的博客 | CD Blog
+title: Tist Blog
+SEOTitle: Tist的博客 | Tist Blog
 header-img: img/post-bg-desk.jpg
-email: cn0f1cd@163.com
+email: t1st@secmail.pro
 description: "Never give up."
-keyword: "CD, CD Blog, CD的博客, cn0f1cd, FCD, android, Xiaomi, Redmi"
+keyword: "Tist, Tist Blog, Tist的博客, Tist, Ti, android, Xiaomi, Redmi"
 url: "https://cn0f1cd.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/cn0f1cd/T1st" # you code repository
