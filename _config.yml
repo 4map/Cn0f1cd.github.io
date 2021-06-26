@@ -1,10 +1,10 @@
 # Site settings
-title: Tist Blog
-SEOTitle: Tist的博客 | Tist Blog
+title: Truth Blog
+SEOTitle: Truth的博客 | Truth Blog
 header-img: img/post-bg-desk.jpg
 email: t1st@secmail.pro
 description: "Never give up."
-keyword: "Tist, Tist Blog, Tist的博客, Tist, Ti, android, Xiaomi, Redmi"
+keyword: "Truth, Truth Blog, Truth的博客, Truth, Ti, android, Xiaomi, Redmi"
 url: "https://cn0f1cd.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/cn0f1cd/T1st" # you code repository
